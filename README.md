@@ -1,7 +1,7 @@
-#### Hi there 👋, A. Onur
-### Web Designer and  Developer
+### Hi there 👋, A. Onur
+## Web Designer and  Developer
 
-#####  Skills and experience: 
+####  Skills and experience: 
 🟨 VanillaJS  ⚛️ REACT </> HTML 🌈 CSS 💅SASS 🌐 WP DEV 🔓 WEBPACK
 
 - 🔭 I’m currently working on HEDEA company. 
