@@ -9,4 +9,4 @@
 - 📫 How to reach me: ao_keklik@hotmail.com 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AOKeklik&show_icons=true&theme=transparent)
