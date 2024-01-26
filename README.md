@@ -2,10 +2,9 @@
 ## Web Designer and Developer
 
 ####  Skills and experience: 
-🟨 VanillaJS  ⚛️ REACT </> HTML 🌈 CSS 💅SASS 🌐 WP DEV 🔓 WEBPACK
+🟨 VanillaJS  ⚛️ REACT </> HTML 🌈 CSS 💅SASS 🌐 WP DEV 🔓 WEBPACK 🎂 NODEJS
 
-- 🔭 I’m currently working on HEDEA company. 
-- 🌱 I’m currently learning NODEJS 
+- 🔭 I’m currently working on HEDEA company.  
 - 📫 How to reach me: ao_keklik@hotmail.com 
 
 
