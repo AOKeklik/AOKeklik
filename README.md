@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Web Designer and Developer
+## Web Developer and Designer
 
 ####  Skills and experience: 
 🟨 VanillaJS  ⚛️ REACT </> HTML 🌈 CSS 💅SASS 🌐 WP DEV 🔓 WEBPACK 🎂 NODEJS
