@@ -1,5 +1,5 @@
-### Hi there 👋, A. Onur
-## Web Designer and  Developer
+### Hi there 👋
+## Web Designer and Developer
 
 ####  Skills and experience: 
 🟨 VanillaJS  ⚛️ REACT </> HTML 🌈 CSS 💅SASS 🌐 WP DEV 🔓 WEBPACK
