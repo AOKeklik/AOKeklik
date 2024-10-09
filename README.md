@@ -2,7 +2,7 @@
 ## Web Developer and Designer
 
 ####  Skills and experience: 
-🐘 PHP 📗 NODEJS 🟨 VanillaJS 🐬 MySQL 🍃 MongoDB
+🐘 PHP 🧱 LARAVEL 📗 NODEJS 🟨 VanillaJS 🐬 MySQL 🍃 MongoDB
 ⚛️ REACT </> HTML 🌈 CSS 💅SASS 
 🌐 WP DEV 🔓 WEBPACK  🐧 LINUX 
 📸 FIGMA/PHOTOSHOP/ILLUSTRATOR
